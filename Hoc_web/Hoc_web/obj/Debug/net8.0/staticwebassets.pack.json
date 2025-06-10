@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Hoc_web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hoc_web.i3sc4on4lt.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\0a1e2189-877c-4166-8f8b-e19d4195abcc.jpg",
+      "PackagePath": "staticwebassets\\images\\0a1e2189-877c-4166-8f8b-e19d4195abcc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\1229e296-1169-4aaf-a6ea-9127fe097f96.webp",
+      "PackagePath": "staticwebassets\\images\\1229e296-1169-4aaf-a6ea-9127fe097f96.webp"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\1c347111-e45f-4981-bda2-0dc2e5b2f806.jpg",
+      "PackagePath": "staticwebassets\\images\\1c347111-e45f-4981-bda2-0dc2e5b2f806.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\1cde34bd-a457-453d-963e-eb22f1e93a17.png",
+      "PackagePath": "staticwebassets\\images\\1cde34bd-a457-453d-963e-eb22f1e93a17.png"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\3e3d6b22-3617-495f-891e-ae9fc52a6edc.jpg",
+      "PackagePath": "staticwebassets\\images\\3e3d6b22-3617-495f-891e-ae9fc52a6edc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\4b87c535-f779-4f85-8ba8-b684cbb1a131.jpg",
+      "PackagePath": "staticwebassets\\images\\4b87c535-f779-4f85-8ba8-b684cbb1a131.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\4d154abb-4277-4471-87a3-aaa956c68af2.png",
+      "PackagePath": "staticwebassets\\images\\4d154abb-4277-4471-87a3-aaa956c68af2.png"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\4e698237-7b46-410b-a28b-a8fa5a1cffa4.png",
+      "PackagePath": "staticwebassets\\images\\4e698237-7b46-410b-a28b-a8fa5a1cffa4.png"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\5f65ec90-d155-4534-b9cf-6fcd08fa253c.jpg",
+      "PackagePath": "staticwebassets\\images\\5f65ec90-d155-4534-b9cf-6fcd08fa253c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\62d48633-b891-4000-90c8-a4e9ef4e5add.png",
+      "PackagePath": "staticwebassets\\images\\62d48633-b891-4000-90c8-a4e9ef4e5add.png"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\67d85418-ecb9-4e82-b790-2275c8b911c7.jpg",
+      "PackagePath": "staticwebassets\\images\\67d85418-ecb9-4e82-b790-2275c8b911c7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\68088fc3-097c-42ce-8dab-7ad5e76ded22.png",
+      "PackagePath": "staticwebassets\\images\\68088fc3-097c-42ce-8dab-7ad5e76ded22.png"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\7ac86c02-e59c-4d14-a1c6-65f231e39f26.png",
+      "PackagePath": "staticwebassets\\images\\7ac86c02-e59c-4d14-a1c6-65f231e39f26.png"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\7e7faadb-1710-44ee-809b-ea56cc2a9145.jpg",
+      "PackagePath": "staticwebassets\\images\\7e7faadb-1710-44ee-809b-ea56cc2a9145.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\a4dd35be-86bf-4a8a-b416-9c512a62281b.jpg",
+      "PackagePath": "staticwebassets\\images\\a4dd35be-86bf-4a8a-b416-9c512a62281b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\a5bb142f-6f06-4bf4-bdcf-2e0c693e8c1d.png",
+      "PackagePath": "staticwebassets\\images\\a5bb142f-6f06-4bf4-bdcf-2e0c693e8c1d.png"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\a95c2c7d-284a-4cde-beda-d6ff8f6142e7.jpg",
+      "PackagePath": "staticwebassets\\images\\a95c2c7d-284a-4cde-beda-d6ff8f6142e7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\b0a34b47-3173-4015-92a7-d493f8423a2b.webp",
+      "PackagePath": "staticwebassets\\images\\b0a34b47-3173-4015-92a7-d493f8423a2b.webp"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\bbc1fcd5-6039-4f4b-9410-de65e9338a83.jpg",
+      "PackagePath": "staticwebassets\\images\\bbc1fcd5-6039-4f4b-9410-de65e9338a83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\c3914648-515d-42d8-806f-bb12f741f755.jpg",
+      "PackagePath": "staticwebassets\\images\\c3914648-515d-42d8-806f-bb12f741f755.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\cccce4f7-a63f-4f6c-9f79-36f3b0fb0f85.jpg",
+      "PackagePath": "staticwebassets\\images\\cccce4f7-a63f-4f6c-9f79-36f3b0fb0f85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\da8dd827-754f-4974-9403-d30d50e644ed.jpg",
+      "PackagePath": "staticwebassets\\images\\da8dd827-754f-4974-9403-d30d50e644ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\db888beb-aa1d-463a-960f-3aa869a67570.jpg",
+      "PackagePath": "staticwebassets\\images\\db888beb-aa1d-463a-960f-3aa869a67570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\e1e84fd2-70c8-4e1e-bcd5-b65564144dc8.jpg",
+      "PackagePath": "staticwebassets\\images\\e1e84fd2-70c8-4e1e-bcd5-b65564144dc8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\e3zaq33rfn791.webp",
+      "PackagePath": "staticwebassets\\images\\e3zaq33rfn791.webp"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\e9ac5f81-19a4-41f6-8b01-18be262d821c.webp",
+      "PackagePath": "staticwebassets\\images\\e9ac5f81-19a4-41f6-8b01-18be262d821c.webp"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\eb70c1fc-1e2b-4846-8c5c-142f62758c6e.jpg",
+      "PackagePath": "staticwebassets\\images\\eb70c1fc-1e2b-4846-8c5c-142f62758c6e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\images\\fb6b48e9-d18e-41c4-a61b-f11cb2c4e456.webp",
+      "PackagePath": "staticwebassets\\images\\fb6b48e9-d18e-41c4-a61b-f11cb2c4e456.webp"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\js\\header.js",
+      "PackagePath": "staticwebassets\\js\\header.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HIULT\\OneDrive\\Desktop\\learn_web\\Hoc_web\\Hoc_web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hoc_web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hoc_web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hoc_web.props",
+      "PackagePath": "build\\Hoc_web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hoc_web.props",
+      "PackagePath": "buildMultiTargeting\\Hoc_web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hoc_web.props",
+      "PackagePath": "buildTransitive\\Hoc_web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

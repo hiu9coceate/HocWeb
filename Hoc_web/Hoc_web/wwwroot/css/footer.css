@@ -1,0 +1,108 @@
+/* footer-style.css */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    /* Apple sử dụng font San Francisco, đây là một fallback tốt */
+}
+
+.foter{
+    background-color: #fb7abb;
+}
+
+.site-footer {
+    color: white; /* Màu chữ chung cho footer */
+    font-size: 0.875rem; /* Cỡ chữ nhỏ hơn một chút */
+    border-top: 1px solid #e0e0e0; /* Đường kẻ nhẹ ở trên cùng footer nếu cần */
+}
+
+.footer-top-notice p {
+    font-size: 0.75rem; /* Cỡ chữ nhỏ cho thông báo */
+    color: white; /* Màu xám nhạt hơn */
+    text-align: center; /* Căn giữa nếu muốn */
+}
+
+.footer-heading {
+    font-size: 0.875rem; /* Cỡ chữ cho tiêu đề cột */
+    color: white; /* Màu đậm hơn cho tiêu đề */
+    margin-bottom: 0.75rem;
+    font-weight: 600; /* Hơi đậm */
+}
+
+.footer-links li {
+    margin-bottom: 0.4rem;
+}
+
+.footer-links a,
+.footer-link {
+    color: white; /* Màu liên kết */
+    text-decoration: none;
+}
+
+.footer-links a:hover,
+.footer-link:hover {
+    color: white; /* Màu liên kết khi hover (có thể đổi màu Apple blue #007AFF) */
+    text-decoration: underline;
+}
+
+.footer-more-ways-to-shop {
+    font-size: 0.8rem;
+}
+
+.footer-divider {
+    border-top-color: #ddd; /* Màu đường kẻ ngang */
+}
+
+.footer-copyright-links .small,
+.footer-country .small {
+    font-size: 0.75rem; /* Cỡ chữ nhỏ hơn cho phần bản quyền */
+}
+
+.footer-link-divider {
+    margin: 0 0.25rem;
+}
+
+.footer-business-info {
+    font-size: 0.75rem;
+    line-height: 1.5;
+}
+
+.footer-business-info p {
+    margin-bottom: 0.25rem; /* Giảm khoảng cách giữa các dòng thông tin doanh nghiệp */
+}
+
+/* Điều chỉnh cho các màn hình cụ thể nếu Bootstrap không đủ */
+/* Ví dụ, bạn có thể thêm media queries nếu muốn tinh chỉnh khác biệt so với các breakpoint của Bootstrap */
+
+/*
+@media (max-width: 1090px) {
+    /* CSS cho màn hình <= 1090px nếu cần */
+/* }
+
+@media (max-width: 630px) {
+    /* CSS cho màn hình <= 630px nếu cần */
+/* }
+
+@media (max-width: 450px) {
+    /* CSS cho màn hình <= 450px nếu cần */
+/* }
+*/
+
+/* Căn chỉnh các liên kết trong phần legal trên màn hình nhỏ */
+@media (max-width: 767.98px) { /* Dưới breakpoint 'md' của Bootstrap */
+    .footer-legal {
+        text-align: center; /* Căn giữa các mục khi xếp chồng */
+    }
+    .footer-copyright-links .list-inline {
+        display: block; /* Làm cho các link chính sách xuống dòng */
+        margin-left: 0 !important;
+    }
+    .footer-copyright-links .list-inline-item {
+        display: block; /* Mỗi link một dòng */
+        margin-bottom: 0.25rem;
+    }
+    .footer-link-divider {
+        display: none; /* Ẩn dấu gạch đứng */
+    }
+    .footer-country {
+        margin-top: 0.5rem;
+    }
+}

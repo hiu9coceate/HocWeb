@@ -1,0 +1,42 @@
+﻿@model Product
+
+@if (Model != null)
+{
+    <div class="row form-group">
+        @if (!String.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <div style="width:5rem; height: 5rem;" class="col-md-4 col-xs-12">
+                <img src="~/@Model.ImageUrl" alt="Ảnh sản phẩm" />
+            </div>
+        }
+
+        <div class="col-md-8 col-xs-12">
+            <p>Tên sản phẩm : @Model.Name</p>
+            <p>Giá : @Model.Price</p>
+            <p>Mô tả : @Model.Description</p>
+            <p>Loại : @Model.Category?.Name</p>
+        </div>
+    </div>
+
+    if (Model.List_Image != null)
+    {
+        <div class="row">
+            @foreach (ProductImage image in Model.List_Image)
+            {
+                <img src="~/@image.Url" style="max-width:200px;" />
+            }
+        </div>
+    }
+}
+
+<div class="row">
+    @if (User.IsInRole("ADMIN"))
+    {
+        <a asp-controller="Product" asp-action="Index">Back</a>
+    }
+    else
+    {
+        <a asp-controller="Home" asp-action="Index">Back</a>
+    }
+
+</div>

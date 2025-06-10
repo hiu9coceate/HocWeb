@@ -1,0 +1,39 @@
+﻿@model ShoppingCart
+<h2>Gio Hang</h2>
+<table>
+	<thead>
+		<tr>
+			<th> Name Product </th>
+			<th> Price </th>
+			<th> Quantity </th>
+			<th> Total </th>
+		</tr>
+	</thead>
+	@if (Model != null)
+	{
+		<tbody>
+			@foreach(
+							CartItem item in Model.Items
+					)
+			{
+				<tr>
+					<td>@item.ProductName</td>
+					<td>@item.Price</td>
+					<td>@item.QuantiTy</td>
+					<td>@(item.Price * item.QuantiTy)</td>
+					<td>
+						<form asp-controller="ShoppingCartController" method="post" asp-action="RomveItemFromCart" asp-route-id="@item.ProductId">
+							<button type="submit">Remove</button>
+						</form>
+					</td>
+				</tr>
+			}
+			<tr>
+				<td colspan="3">Total: </td>
+				<td colspan="2" >@Model.Items.Sum(n => n.Price*n.QuantiTy)</td>
+			</tr>
+		</tbody>
+	}
+
+</table>
+<a asp-controller="ShoppingCart" asp-action="CheckOut" class="btn btn-primary"> Toi trang thanh toan </a>

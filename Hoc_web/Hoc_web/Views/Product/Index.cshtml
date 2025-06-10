@@ -1,0 +1,95 @@
+﻿@model List<Product>
+
+
+
+
+<div>
+    
+    <div id="carouselExample" class="carousel slide">
+        @* <div class="carousel-inner"> *@
+        @*     <div style="height: 30rem; background-color:pink;  " class="carousel-item active"> *@
+        @*         <img style="max-height: 100%; object-fit: contain;" " width="100%" src="https://images.unsplash.com/photo-1636955840493-f43a02bfa064?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHVpfGVufDB8fDR8fHww" class="d-block w-100" alt="..."> *@
+        @*     </div> *@
+        @*     <div style="height: 30rem; background-color:pink;  " class="carousel-item"> *@
+        @*         <img style="max-height: 100%; object-fit: contain;" " width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuZWdPFdzUgM576Hy6m0DIpjSxNMz3RBvzA&s" class="d-block w-100" alt="..."> *@
+        @*     </div> *@
+        @*     <div style="height: 30rem; background-color:pink;  " class="carousel-item"> *@
+        @*         <img style="max-height: 100%; object-fit: contain;" " width="100%" src="https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="d-block w-100" alt="..."> *@
+        @*     </div> *@
+        @* </div> *@
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <h2>Trang sản phẩm</h2>
+    <div class="row">
+        <button style="width:10rem; margin-left:1rem;  " type="button" class="btn "><a asp-controller="Product" asp-action="Create">Thêm Mới</a></button>
+        <button style="width:10rem; margin-left:1rem;  " type="button" class="btn "><a asp-controller="ShoppingCart" asp-action="Index">Thêm Gio Hang</a></button>
+    </div>
+    <hr />
+
+    <h2>Tìm kiếm sản phẩm</h2>
+
+    <form asp-action="Search" method="get" class="mb-4">
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label for="name" class="form-label"><strong>Tên hoặc Ghi chú:</strong></label>
+                <input type="text" id="name" name="name" class="form-control"
+                       value="@ViewData["CurrentName"]" placeholder="Nhập tên hoặc ghi chú..." />
+            </div>
+            <div class="col-md-2 mb-3">
+                <label for="minPrice" class="form-label"><strong>Giá từ:</strong></label>
+                <input type="number" id="minPrice" name="minPrice" step="any" class="form-control"
+                       value="@ViewData["CurrentMinPrice"]" placeholder="Thấp nhất..." />
+            </div>
+            <div class="col-md-2 mb-3">
+                <label for="maxPrice" class="form-label"><strong>Đến:</strong></label>
+                <input type="number" id="maxPrice" name="maxPrice" step="any" class="form-control"
+                       value="@ViewData["CurrentMaxPrice"]" placeholder="Cao nhất..." />
+            </div>
+            <div class="col-md-3 mb-3">
+                <label for="categoryId" class="form-label">Danh mục:</label>
+                <select id="categoryId" name="categoryId" class="form-select" asp-items="ViewBag.Categories">
+                    <option value="">-- Các Loại Sản Phẩm --</option>
+                </select>
+            </div>
+            <div class="col-md-1 mb-3 d-flex align-items-end">
+                <button type="submit" class="btn btn-primary w-100">Tìm</button>
+            </div>
+        </div>
+    </form>
+
+    <hr />
+
+    <h2>Kết quả tìm kiếm</h2>
+
+
+            @if (Model != null)
+            {
+                foreach (Product item in Model)
+                {
+
+            <div style="margin:1rem; width:20rem;" class="card product-card col-6 ">
+					<img style="width:auto; height:10rem;" src="/@item.ImageUrl" class="card-img-top" alt="...">
+					<div class="card-body">
+						<h5 class="card-title">@item.Name </h5>
+						<p class="card-text">Ghi Chú: @item.Description</p>
+						<p>Giá: @item.Price</p>
+						<p class="card-text"> Danh Mục: @item.Category.Name</p>
+						<a href="#" class="btn btn-primary">Mua Ngay</a>
+						<a asp-controller="Product" asp-action="View" asp-route-id="@item.Id" class="btn btn-info">View</a>
+						<a asp-controller="Product" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning">Update</a>
+						<a asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+					</div>
+				</div>
+                   
+                   
+                }
+            }
+       
+</div>
